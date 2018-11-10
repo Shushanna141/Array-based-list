@@ -1,0 +1,81 @@
+﻿  Array-based-list.cpp
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(8): error C2988: unrecognizable template declaration/definition
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(8): error C2143: syntax error: missing ';' before '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(8): error C2059: syntax error: '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(8): error C2039: 'ArrayList': is not a member of '`global namespace''
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(8): error C2065: 'DEFAULT_CAPACITY': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(9): error C2448: 'maxItems': function-style initializer appears to be a function definition
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(13): error C2988: unrecognizable template declaration/definition
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(13): error C2143: syntax error: missing ';' before '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(13): error C2059: syntax error: '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(13): error C2039: 'isEmpty': is not a member of '`global namespace''
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(14): error C2143: syntax error: missing ';' before '{'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(14): error C2447: '{': missing function header (old-style formal list?)
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(18): error C2988: unrecognizable template declaration/definition
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(18): error C2143: syntax error: missing ';' before '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(18): error C2371: 'ArrayList': redefinition; different basic types
+  c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(13): note: see declaration of 'ArrayList'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(18): error C2059: syntax error: '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(18): error C2039: 'getLength': is not a member of '`global namespace''
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(19): error C2143: syntax error: missing ';' before '{'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(19): error C2447: '{': missing function header (old-style formal list?)
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(23): error C2988: unrecognizable template declaration/definition
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(23): error C2143: syntax error: missing ';' before '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(23): error C2374: 'ArrayList': redefinition; multiple initialization
+  c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(13): note: see declaration of 'ArrayList'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(23): error C2059: syntax error: '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(23): error C2039: 'insert': is not a member of '`global namespace''
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(24): error C2143: syntax error: missing ';' before '{'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(24): error C2447: '{': missing function header (old-style formal list?)
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(40): error C2988: unrecognizable template declaration/definition
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(40): error C2143: syntax error: missing ';' before '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(40): error C2371: 'ArrayList': redefinition; different basic types
+  c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(13): note: see declaration of 'ArrayList'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(40): error C2059: syntax error: '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(40): error C2039: 'getEntry': is not a member of '`global namespace''
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(41): error C2143: syntax error: missing ';' before '{'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(41): error C2447: '{': missing function header (old-style formal list?)
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(52): error C2988: unrecognizable template declaration/definition
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(52): error C2143: syntax error: missing ';' before '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(52): error C2182: 'ArrayList': illegal use of type 'void'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(52): error C2371: 'ArrayList': redefinition; different basic types
+  c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(13): note: see declaration of 'ArrayList'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(52): error C2059: syntax error: '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(52): error C2039: 'setEntry': is not a member of '`global namespace''
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(53): error C2143: syntax error: missing ';' before '{'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(53): error C2447: '{': missing function header (old-style formal list?)
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(65): error C2988: unrecognizable template declaration/definition
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(65): error C2143: syntax error: missing ';' before '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(65): error C2374: 'ArrayList': redefinition; multiple initialization
+  c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(13): note: see declaration of 'ArrayList'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(65): error C2059: syntax error: '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(66): error C2143: syntax error: missing ';' before '{'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(66): error C2447: '{': missing function header (old-style formal list?)
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(77): error C2988: unrecognizable template declaration/definition
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(77): error C2143: syntax error: missing ';' before '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(77): error C2182: 'ArrayList': illegal use of type 'void'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(77): error C2371: 'ArrayList': redefinition; different basic types
+  c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(13): note: see declaration of 'ArrayList'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(77): error C2059: syntax error: '<'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(77): error C2039: 'clear': is not a member of '`global namespace''
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(78): error C2143: syntax error: missing ';' before '{'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(78): error C2447: '{': missing function header (old-style formal list?)
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(83): error C2065: 'ListInterface': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(83): error C2065: 'string': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(83): error C2065: 'listPtr': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(83): error C2061: syntax error: identifier 'ArrayList'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(84): error C2065: 'string': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(84): error C2143: syntax error: missing ';' before '{'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(84): error C2988: unrecognizable template declaration/definition
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(84): error C2143: syntax error: missing ';' before '}'
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(85): error C2065: 'cout': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(85): error C2065: 'listPtr': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(85): error C2065: 'endl': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(88): error C2065: 'listPtr': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(88): error C2065: 'data': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(89): error C2065: 'cout': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(89): error C2065: 'endl': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(91): error C2065: 'cout': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(91): error C2065: 'data': undeclared identifier
+c:\users\shushy\source\repos\array-based-list\array-based-list\array-based-list.cpp(91): error C2065: 'endl': undeclared identifier
